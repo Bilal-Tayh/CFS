@@ -9,6 +9,7 @@ Implementation was done by bilal tayh (tayh[at]post.bgu.ac.il), 2019.
 compile: javac main.java
 
 run: java main trace-path Topology cells-num
+
 (trace-path is the path of the trace, the trace should be a .txt file),
 (Topology: 0 for geant topology and 1 for fattree),
 (cells-num the size of Samples Per NMP).
